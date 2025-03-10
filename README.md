@@ -28,13 +28,14 @@ Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Goog
 
 Run this web application locally, follow steps below:
 
+Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
+
 **Client Side**
-1. Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
-2. Navigate to the directory of the project: cd client
-3. Install dependencies: npm install
-4. Run dependencies: npm run build
-5. Start the development server (Vite): npm run dev
-6. Open browser: http://localhost:5173
+1. Navigate to the directory of the project: cd client
+2. Install dependencies: npm install
+3. Run dependencies: npm run build
+4. Start the development server (Vite): npm run dev
+5. Open browser: http://localhost:5173
 
 **Server Side**
 1. Navigate to the directory of the project: cd server
