@@ -25,6 +25,7 @@ Preview
 
 **Installation**
 Run this web application locally, follow steps below:
+
 **Client Side**
 1. Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
 2. Navigate to the directory of the project: cd client
