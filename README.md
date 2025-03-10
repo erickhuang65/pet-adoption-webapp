@@ -1,8 +1,13 @@
 # Pet Adoption Website
 
+[**Introduction**]
+Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Google Map API](https://developers.google.com/maps), and [Rescue Pet API](https://userguide.rescuegroups.org/). 
+
+Preview
+
 **Table of Contents**
 
-* Introduction
+(* Introduction)
 * Features
 * Installation
 * Tech Stack
@@ -19,12 +24,6 @@
 **Search Page**
 <img width="1906" alt="Screenshot 2025-02-03 at 4 46 04 PM" src="https://github.com/user-attachments/assets/8892e5f3-9f91-4270-a3d4-f5a536305097" />
 
-
-
-**Introduction**
-Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Google Map API](https://developers.google.com/maps), and [Rescue Pet API](https://userguide.rescuegroups.org/). 
-
-Preview
 
 **Installation**
 Run this web application locally, follow steps below:
