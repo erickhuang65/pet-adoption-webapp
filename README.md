@@ -38,7 +38,7 @@ Run this web application locally, follow steps below:
 5. Start the development server (Vite): npm run dev
 6. Open browser: http://localhost:5173
 
-**Seber Side**
+**Server Side**
 1. Navigate to the directory of the project: cd server
 2. Install dependencies: npm install
 3. Run dependencies: npm run build
