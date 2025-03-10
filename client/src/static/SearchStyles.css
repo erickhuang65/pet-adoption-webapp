@@ -1,0 +1,33 @@
+.search-main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.search-container {
+    display: flex;
+}
+
+.search-left-container {
+    flex: 1;
+    margin: 12px;
+}
+
+.search-right-container {
+    display: flex;
+    flex: 25;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.search-button {
+    width: 250px; 
+    height: 200px;
+    margin: 5px;
+    padding:2px;
+}
+
+.search-button-img {
+    width: 100%;
+    height: 100%;
+}
