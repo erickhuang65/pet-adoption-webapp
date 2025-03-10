@@ -24,6 +24,8 @@ Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Goog
 
 
 **Installation**
+
+
 Run this web application locally, follow steps below:
 
 **Client Side**
