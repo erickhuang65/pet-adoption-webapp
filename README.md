@@ -19,6 +19,7 @@
 <img width="1906" alt="Screenshot 2025-02-03 at 4 46 04 PM" src="https://github.com/user-attachments/assets/8892e5f3-9f91-4270-a3d4-f5a536305097" />
 
 
+
 **Introduction**
 
 
@@ -30,7 +31,7 @@
 **Installation**
 Run this web application locally, follow steps below:
 **Client Side**
-1. Clone the repository: https://github.com/erickhuang65/petadoption-web-app.git
+1. Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
 2. Navigate to the directory of the project: cd client
 3. Install dependencies: npm install
 4. Run dependencies: npm run build
