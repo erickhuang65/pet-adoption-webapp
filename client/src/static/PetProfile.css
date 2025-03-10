@@ -1,0 +1,61 @@
+.profile-main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.profile-container {
+    display: flex;
+    width: 99vw;
+    gap: 10px;
+    padding: 10px 50px;
+    box-sizing: border-box;
+}
+
+.profile-left-container {
+    flex: 1;
+    margin: 0;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
+
+.profile-right-container {
+    flex: 1;
+    /* justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; */
+    margin: 0;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
+
+.sliderStyles {
+    width: 50%;
+    margin: 5px 2px 2px 2px;
+    position: relative;
+}
+
+.leftArrow {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -90);
+    top: 150px;
+    left: 50px;
+    font-size: 40px;
+    color: white;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.rightArrow {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -90);
+    top: 150px;
+    right: -125px;
+    font-size: 40px;
+    color: white;
+    z-index: 1;
+    cursor: pointer;
+}

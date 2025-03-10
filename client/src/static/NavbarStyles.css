@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    /* justify-content: right; */
+}
+
+.left-navbar {
+    flex: 9;
+}
+
+div > img {
+    width: 60px;
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.right-navbar {
+    flex: 2;
+    margin: 10px;
+}
+
+.imageStyle {
+    width: 15px;
+    height: auto;
+}
+
+.inputStyle {
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    background-color: transparent;
+    color: black;
+}
+
+.navbar-button {
+    background-color: transparent;
+}
