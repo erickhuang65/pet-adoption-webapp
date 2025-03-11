@@ -23,7 +23,7 @@ Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Goog
 <img width="1906" alt="Screenshot 2025-02-03 at 4 46 04 PM" src="https://github.com/user-attachments/assets/8892e5f3-9f91-4270-a3d4-f5a536305097" />
 
 
-**Installation**
+##Installation
 
 
 Run this web application locally, follow steps below:
@@ -43,15 +43,18 @@ Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
 3. Run dependencies: npm run build
 4. Start the development server (Vite): npm start
 
-**Tech Stack**
+##Tech Stack
 * MERN Stack: MongoDB, Express.JS, React.JS, Node.JS
 * React.JS: Javascript library to build the interfaces
 * Express.JS: Route to handle backend server logic
 * CSS: Vanilla CSS to edit layout
 
-**Project Structure**
-* src/components: This folder contains all React components used to build different sections of the web application
-
+##Project Structure
+* client/src/components/: This folder contains Map components and Navigation bar components
+* client/src/home/: This folder contains main webpage, pet profile page, search page
+* client/src/static/: This folder contains static files (backdrop image, css files) 
+* server/controller/api.controller.js/: This file contains logics to handle api calls
+* server/routes/api.routes.js/: This file handles all React Routes
 
 **License**
 MIT License. 
