@@ -8,8 +8,8 @@ Pet Adoption Web Application is built with React.js, Node.js, React Hooks, [Goog
 **Table of Contents**
 
 * [Installation](#introduction)
-* [Tech Stack](#tech stack)
-* [Project Structure](#project structure)
+* [Tech Stack](#techstack)
+* [Project Structure](#projectstructure)
 * Contributing
 * License
 
@@ -44,8 +44,6 @@ Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
 4. Start the development server (Vite): npm start
 
 **Tech Stack**
-
-
 * MERN Stack: MongoDB, Express.JS, React.JS, Node.JS
 * React.JS: Javascript library to build the interfaces
 * Express.JS: Route to handle backend server logic
