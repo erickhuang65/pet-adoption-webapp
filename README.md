@@ -42,13 +42,13 @@ Clone the repository: https://github.com/erickhuang65/pet-adoption-webapp.git
 3. Run dependencies: npm run build
 4. Start the development server (Vite): npm start
 
-##Tech Stack
+## Tech Stack
 * MERN Stack: MongoDB, Express.JS, React.JS, Node.JS
 * React.JS: Javascript library to build the interfaces
 * Express.JS: Route to handle backend server logic
 * CSS: Vanilla CSS to edit layout
 
-##Project Structure
+## Project Structure
 * client/src/components/: This folder contains Map components and Navigation bar components
 * client/src/home/: This folder contains main webpage, pet profile page, search page
 * client/src/static/: This folder contains static files (backdrop image, css files) 
