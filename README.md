@@ -1,4 +1,4 @@
-# Pet Adoption Website
+Pet Adoption Website
 
 ## Table of Contents
 - [Introduction](#introduction)
